@@ -1,0 +1,11 @@
+/* App.css */
+
+.app {
+  display: flex;
+  height: 100vh;
+}
+
+.mainContent {
+  width: 100%;
+  transition: margin-left 0.5s;
+}
